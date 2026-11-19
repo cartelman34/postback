@@ -157,7 +157,7 @@ async def webhook(
     # ------------------------------------------------------
 
     message = (
-        "📩 <b>New Lead</b>\n\n"
+        "📩 <b>New DEP</b>\n\n"
         f"📧 <b>Email:</b> {lead.email}\n"
         f"🔗 <b>SubID:</b> {lead.subid}\n"
         f"👤 <b>Buyer:</b> {lead.buyer}\n"
